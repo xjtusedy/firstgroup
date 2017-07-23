@@ -1,0 +1,33 @@
+body{
+    background-color: #62ff89;
+}
+div.container{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #007cb9;
+    border: 5px solid #400040;
+}
+div.ad-bar{
+    width: 100%;
+    height: 300px;
+    background-image: url("../image/ad.jpg");
+    /*background-color: #400040;*/
+}
+div.content{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 700px;    
+}
+div.left-content{
+width: 50%;
+height: 100%;
+background-color:#8080c0;
+}
+div.left-content{
+width: 50%;
+height: 100%;
+background-color:#ff00ff;
+}

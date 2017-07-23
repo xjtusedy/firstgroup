@@ -1,0 +1,57 @@
+a.bootmark { margin-right: 10px; 
+			top:-10px;
+}
+
+.bootmark:hover i { -moz-transform: rotate(720deg); -ms-transform: rotate(720deg); -o-transform: rotate(720deg); -webkit-transform: rotate(720deg); transform: rotate(720deg); }
+
+.bar-link { list-style: none; margin: 0; }
+.bar-link li { float: left; }
+.bar-link a { display: inline-block; padding: 0 8px; text-decoration: none; }
+
+.bar-link a:hover { background: #666; color: #fff; }
+
+.bar-link .tel-num { font: 700 16px 微软雅黑; color: #ce000d; font-style: italic; line-height: 30px; }
+/*图片定位*/
+.icon-main { background-image: url(../../img/lxb/style-icon-all.png); background-repeat: no-repeat; display: inline-block; vertical-align: middle; }
+.icon-collect { background-position: 0 0; width: 15px; height: 15px; -moz-transition: transform .4s ease-in 0s; -ms-transition: transform .4s ease-in 0s; -o-transition: transform .4s ease-in 0s; -webkit-transition: -webkit-transform .2s ease-in 0s; transition: transform .4s ease-in 0s; float: left; }
+.icon-tel { background-position: -23px 0; width: 15px; height: 15px; float: left; }
+
+a:hover{
+	color: #e4393c;
+}
+a{
+
+	color: #999;
+}
+a.logo{
+    float: left;
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+    margin-top: -5px;
+    background: url("../../img/lxb/logo.png") no-repeat;
+}
+.col-lg-6{
+	
+	margin-left: auto;
+	margin-right:auto;
+}
+#sidebarcontent{
+	margin-left: auto;
+	margin-right:auto;
+
+	width: auto;
+	height:auto;
+	float: left;
+}
+#sidebar{
+	background-color:#e3e4e5;
+	height:30px;
+	margin-top: -10px;
+	padding-top:10px;
+}
+#sidebarborder{
+	width:70%; 
+	margin-left:auto;
+	margin-right:auto;
+}

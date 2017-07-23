@@ -1,0 +1,44 @@
+/*一般字体*/
+.font{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+/*大号字体*/
+h3{
+
+	font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    font-size:24px;
+}
+
+h1{
+    color: black;
+    font-weight: 600;
+    font-size: 2em;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+a{
+	text-decoration: none;
+        color: #999;
+
+}
+
+a:hover {
+    color: #e4393c;
+    text-decoration: underline;
+}
+
+button{
+	font-size: 14px;
+    /*background: #00b4ef;*/
+    /*border-radius: 30px;*/
+    border: none;
+    text-transform: capitalize;
+    transition: all 0.5s ease 0s;
+}

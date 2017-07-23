@@ -1,0 +1,222 @@
+		#all{
+			width: 1647px;
+			/*height: 700px;*/
+			height: auto;
+			/*border: 1px solid black;*/
+			background: white;
+			/*background: url(../src/store/bg.jpg);*/
+		}
+		#top{
+			width:100%;
+			height: 50px;
+			background: black;
+
+		}
+		#logoandsearch{
+			
+			width:70%;
+			height: 100px;
+			/*border: 1px solid black;*/
+			margin-left: auto;
+			margin-right:auto;
+			
+
+		}
+
+		#logo{
+			width: 30%;
+			height:100%;
+			float: left;
+		}
+		#search{
+			width: 60%;
+			height:100%;
+			padding-right: 5%;
+			float:right;
+			font-family: "Î¢ÈíÑÅºÚ";
+
+			/*background: #F1E3C5;*/
+		}
+		#searchcontent{
+			width:400px;
+			margin-top:30px; 
+			float: left;
+			height: 30px;
+		}
+		#searchbutton{
+			width: 100px;
+			height: 35px;
+			float: left;
+			margin-top:30px; 
+			background: #e22;
+			color: white;
+		}
+		#shoppingcart{
+			border: 1px solid #e3e4e5;
+			width: 126px;
+
+			margin-top:30px; 
+			float: right;
+			height: 27px;
+		}
+		#topright{
+			width: 30%;
+			height:100%;
+			padding-left: 40%;
+			float:left;
+			font-family: "Î¢ÈíÑÅºÚ";
+			line-height: 150px;
+			background: #F1E3C5;
+
+		}
+		#center{
+			
+			width: 70%;
+			height: 1300px;
+			/*border: 1px solid black;*/
+			margin-left: auto;
+			margin-right:auto;
+			background: white;
+		}
+		#bottom{
+			width: 70%;
+			height: 50px;
+			/*border: 1px solid black;*/
+			margin-left: auto;
+			margin-right:auto;
+			background: white;
+		}
+		
+		#centerleft{
+			width: 0%;
+			height: 400px;
+			margin-left: 5%;
+			margin-top: 5%;
+
+			/*border: 1px solid black;*/
+			float:left;
+			background: #DD7022;
+			font-family: "Î¢ÈíÑÅºÚ";
+			text-align: center;
+			font-size: 35px;
+
+		}
+		.anotherstore{
+			text-align: center;
+			font-family: "KaiTi";
+			color: white;
+			font-size: 25px;
+			margin-top: 30px;
+		}
+		#centerright{
+			font-family: "KaiTi";
+			font-size: 20px;
+			width: 80%;
+			height: 500px;
+			margin-left: 5%;
+			margin-top: 5%;
+			/*border: 1px solid black;*/
+			float:left;
+			
+		}
+		.com{
+			width:292px;
+			height: 475px;
+			border: 1px solid #96BABA;
+			margin-left: 10px;
+			margin-top: 20px;
+			float:left;
+		}
+		.compicture{
+			width:262px;
+			height: 323px;
+			margin-left: auto;
+			margin-right: auto;
+			border-bottom: 1px solid black;
+		}
+		.row{
+			margin-top: 20px;
+			padding-left:20px; 
+
+
+		}
+		.description{
+			
+			float:left;
+		}
+		.comname{
+			
+			float;left;
+		}
+		.comprice{
+			font-size: 24px;
+			color: red;
+			float:left;
+		}
+		#combar{
+			height: 300px;
+
+			/*border: 1px solid red;*/
+		}
+		#page{
+			width:75%;
+			float:left;
+			margin-top: 10%;
+			padding-left:25%; 
+			margin-left: auto;
+			margin-right: auto;
+			/*border: 1px solid yellow;*/
+
+		}
+		.pagedivide{
+
+			margin-left: 20px;
+			float:left;
+			/*border: 1px solid black;*/
+		}
+		/*footer*/
+footer{
+    font-size: 12px;
+    text-align: center;
+    /*border-top: solid 1px #e6e6e6;*/
+    color: #999;
+    padding-bottom: 30px;
+}
+footer p a{
+    font-size: 12px;
+    text-align: center;
+    color: #999;
+
+
+}
+footer p:nth-child(1){
+
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+footer p span{
+
+    padding-left: 1px;
+    margin: 0 10px;
+    font-size: 10px;
+    background-color: #999;
+}
+.question{
+    display: block;
+    width: 33px;
+    height: 135px;
+    position: fixed;
+    right: 0;
+    top: 50%;
+    margin-top: -67px;
+    background: url("../image/icon.png") -367px 0;;
+
+}
+.question:hover{
+    background-position:  -334px 0;
+}
+
+
+
+
+
